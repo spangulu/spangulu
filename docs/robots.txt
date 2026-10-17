@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://spangulu.github.io/sitemap.xml
+Sitemap: https://spangulu.github.io/spangulu/sitemap.xml
