@@ -42,6 +42,6 @@ A collection of my public repositories, including small learning and portfolio d
 
 ## 🤝 Connect
 
-Find my work and projects here on [GitHub](https://github.com/spangulu).
+Explore my [Sarath Panguluri test automation portfolio](https://spangulu.github.io/spangulu/) or browse my projects on [GitHub](https://github.com/spangulu).
 
 *Thoughtful testing. Reliable automation. Better software.*
